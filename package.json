@@ -2,7 +2,7 @@
   "name": "would-u-rather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://allenlili.github.io/would-u-rather/",
+  "homepage": "https://allenlili.github.io/would-you-rather/",
   "dependencies": {
     "@material-ui/core": "^1.4.2",
     "@material-ui/icons": "^2.0.0",
