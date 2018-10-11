@@ -49,7 +49,7 @@ There are two types of objects stored in our database:
 
 * [React](https://reactjs.org/) - FrontEnd Framework
 * [Material-UI](https://material-ui.com/) - UI Library
-* [Redux](https://redux.js.org/)
+* [Redux](https://redux.js.org/) - State Management
 
 ## Authors
 
