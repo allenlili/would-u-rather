@@ -2,7 +2,7 @@
 
 Would You Rather is a family game. The goal of this project is to show my skills on React and Redux to build page.
 
-[LIVE](https://allenlili.github.io/would-you-rather)
+[Demo](https://allenlili.github.io/would-you-rather)
 
 ## Getting Started
 
